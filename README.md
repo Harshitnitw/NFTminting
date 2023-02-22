@@ -1,6 +1,6 @@
-I tried to contact Dyeus team on Skype and on mail that the code present in the assignment they have shared is not compiling. They asked me to share the previous work I have done in Web3. So I shared the details about the project I did on Solidity with them along with the github link to the project.
+I tried to contact Dyeus team on Skype and by mail that the code present in the assignment they have shared is not compiling. They asked me to share the previous work I have done in Web3. So I shared the details about the project I did on Solidity with them along with the github link to the project.
 
-Since the error in the code was not resolved even after trying the steps mentioned in the assignment, I couldn't complete the assignment because the issues are left unresolved. As the group members asked me to descrive the projects I have done in past on Web3, I am writing about my project details over here:
+Since the error in the code was not resolved even after trying the steps mentioned in the assignment, I couldn't complete the assignment because the issues are left unresolved. As the group members asked me to describe the projects I have done in past on Web3, I am writing about my project details over here:
 
 
 My project is a blockchain-based NFT platform that allows users to mint and trade unique, non-fungible tokens (NFTs) that resemble Pokeballs. Unlike traditional Pokeballs, which have a set design, my Pokeball NFTs are completely random and unique, consisting of a collection of random layers of different permutations and combinations.
